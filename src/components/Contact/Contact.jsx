@@ -1,7 +1,7 @@
 import React from 'react';
 import { Mail, Github, Linkedin, Twitter, Instagram, Facebook, Link, BookOpen, MessageCircle, Users } from 'lucide-react';
 import ParticleBackground from '../ParticleBackground';
-import emailjs from "emailjs-com";
+import emailjs from '@emailjs/browser';
 
 const ThreadsIcon = ({ className }) => (
   <svg
