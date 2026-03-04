@@ -20,7 +20,7 @@ export const projects = [
         image: "/MoodiFy.jpeg",
         techStack: ["Kotlin", "Jetpack Compose", "Firebase Authentication", "Firebase Firestore", "Room Database", "Python", "Flask REST API", "OpenCV", "NLTK", "Librosa"],
         github: "https://github.com/HimanshuSingh1531/MoodiFy",
-        deployed: "https://signal-x-zkh5.vercel.app/",
+        deployed: "https://docs.google.com/document/d/1Bc2VfAKjogIB8BXvb1BneMI0mk2tesl5TmQxYXgcJaE/edit?usp=drivesdk",
         categories: ['All', 'AI/ML', 'Mobile'],
         featured: true,
         icon: Brain
@@ -33,7 +33,7 @@ export const projects = [
     image: "/Spiritual.jpeg",
     techStack: ["Python3","FlaskAPI","REST API","Kotlin","Jetpack Compose","Firebase Authentication","Auth0","JWT Authentication","OpenAI API","Hugging Face Transformers","PyTorch","Scikit-learn","NumPy","Pandas","NLTK","Render"],
     github: "https://github.com/HimanshuSingh1531/religious-backend",
-    deployed: "https://incenti-x.vercel.app/",
+    deployed: "https://docs.google.com/document/d/1Bc2VfAKjogIB8BXvb1BneMI0mk2tesl5TmQxYXgcJaE/edit?usp=drivesdk",
     categories: ['All', 'AI/ML', 'Mobile', 'Backend'],
     icon: Brain
   },
@@ -45,7 +45,7 @@ export const projects = [
     image: "/CommpersY.jpeg",   
     techStack: ["MVVM Architecture","Razorpay Payment Gateway","Firebase Authentication","Firebase Firestore","Firebase Cloud Storage","Jetpack Compose","RESTful APIs","Kotlin","Glide"],
     github: "https://github.com/HimanshuSingh1531/CommpersY",
-    deployed: "https://synapse-2ezy.vercel.app/",
+    deployed: "https://docs.google.com/document/d/1Bc2VfAKjogIB8BXvb1BneMI0mk2tesl5TmQxYXgcJaE/edit?usp=drivesdk",
     categories: ['All', 'Web', 'Backend', 'Mobile'],
     icon: Globe
   },
@@ -57,7 +57,7 @@ export const projects = [
     image: "/NotiFy.jpg",
     techStack: ["Kotlin","Jetpack Compose", "Firebase Authentication", "Firebase Firestore", "Firebase Cloud Storage", "RESTful APIs", "Cloudinary", "Python", "Flask", "Glide", "MVVM Architecture"],
     github: "https://github.com/HimanshuSingh1531/NotiFy", 
-    deployed: "https://sahyog-project.vercel.app/", 
+    deployed: "https://docs.google.com/document/d/1Bc2VfAKjogIB8BXvb1BneMI0mk2tesl5TmQxYXgcJaE/edit?usp=drivesdk", 
     categories: ['All', 'Mobile', 'Backend'],
     featured: true,
     icon: MessageSquare
@@ -70,7 +70,7 @@ export const projects = [
     image: "/Quiz.jpeg",
     techStack: ["Render","JavaScript", "Python3","FlaskAPI","REST API","Kotlin","Jetpack Compose","Firebase Authentication","Auth0", "Firebase",],
     github: "https://github.com/HimanshuSingh1531/quiz-websocket-server",
-    deployed: "https://recap-5ajg.vercel.app/", 
+    deployed: "https://docs.google.com/document/d/1Bc2VfAKjogIB8BXvb1BneMI0mk2tesl5TmQxYXgcJaE/edit?usp=drivesdk", 
     categories: ['All','Mobile', 'Backend'],
     icon: Code
   }, 
@@ -82,7 +82,7 @@ export const projects = [
     image: "/LearnPro.jpeg",
     techStack: ["Tensorflow", "MVVM Architecture","Razorpay Payment Gateway","Firebase Authentication","Firebase Firestore","Firebase Cloud Storage","Jetpack Compose","RESTful APIs","Kotlin","Glide"],
     github: "https://github.com/HimanshuSingh1531/LearnPro",
-    deployed: "https://lumina-beta.vercel.app/",
+    deployed: "https://docs.google.com/document/d/1Bc2VfAKjogIB8BXvb1BneMI0mk2tesl5TmQxYXgcJaE/edit?usp=drivesdk",
     categories: ['All', 'Web', 'Mobile', 'Backend'],
     icon: Code
   },
@@ -94,7 +94,7 @@ export const projects = [
     image: "/SEO.jpeg",
     techStack: ["Kotlin", "Jetpack Compose", "REST APIs", "Retrofit", "SEO Audit Engine"],
     github: "https://github.com/HimanshuSingh1531/SEO-Analyzer",
-    deployed: "https://guardian-vault-codestrikers.web.app/",
+    deployed: "https://docs.google.com/document/d/1Bc2VfAKjogIB8BXvb1BneMI0mk2tesl5TmQxYXgcJaE/edit?usp=drivesdk",
     categories: ['All', 'Web', 'Mobile', 'Backend'],
     icon: Code
   },
@@ -106,7 +106,7 @@ export const projects = [
     image: "/Legal.jpeg",
     techStack: ["Kotlin", "Grok", "Jetpack", "Firebase", "Auth"], 
     github: "https://github.com/HimanshuSingh1531/AI-LEGAL",
-    deployed: "https://guardian-vault-codestrikers.web.app/",
+    deployed: "https://docs.google.com/document/d/1Bc2VfAKjogIB8BXvb1BneMI0mk2tesl5TmQxYXgcJaE/edit?usp=drivesdk",
     categories: ['All', 'Web', 'Mobile', 'Backend'],
     icon: Code
   },
@@ -118,7 +118,7 @@ export const projects = [
     image: "/ZeroSync.png",
     techStack:["JavaScript", "TypeScript", "Solidity", "CSS", "PowerShell", "Circom"],
     github: "https://github.com/Thejaggeddevil/QuickSync",
-    deployed: "https://github.com/ArshTiwari2004/MessageMaze",
+    deployed: "https://docs.google.com/document/d/1Bc2VfAKjogIB8BXvb1BneMI0mk2tesl5TmQxYXgcJaE/edit?usp=drivesdk",
     categories: ['All', 'Backend', 'Web', 'Blockchain'],
     icon: Globe
   },
